@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 65b735eb576fe16489cbb656aec56ac7
+timeCreated: 1455075492
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: R_Hand
+    21300004: Neck
+    21300006: R_Bicep
+    21300008: R_Forearm
+    21300010: Torso
+    21300012: Waist
+    21300014: R_Calf
+    21300016: R_Shin
+    21300018: R_Foot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 863
+        width: 133
+        height: 137
+      alignment: 9
+      pivot: {x: .358754665, y: .218541056}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Hand
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 894
+        width: 47
+        height: 98
+      alignment: 9
+      pivot: {x: .436890304, y: .96409142}
+      border: {x: 2, y: 0, z: 0, w: 0}
+    - name: Neck
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 908
+        width: 74
+        height: 72
+      alignment: 9
+      pivot: {x: .476384342, y: .0631010234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Bicep
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 632
+        width: 81
+        height: 182
+      alignment: 9
+      pivot: {x: .463380784, y: .836815476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Forearm
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 646
+        width: 79
+        height: 145
+      alignment: 9
+      pivot: {x: .224661529, y: .840936482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Torso
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 616
+        width: 133
+        height: 222
+      alignment: 9
+      pivot: {x: .596641362, y: .0724473521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Waist
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 361
+        width: 117
+        height: 154
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Calf
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 183
+        width: 122
+        height: 324
+      alignment: 9
+      pivot: {x: .443270326, y: .80821079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Shin
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 206
+        width: 104
+        height: 276
+      alignment: 9
+      pivot: {x: .733347952, y: .876834929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Foot
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 34
+        width: 131
+        height: 80
+      alignment: 9
+      pivot: {x: .268433541, y: .92252624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
