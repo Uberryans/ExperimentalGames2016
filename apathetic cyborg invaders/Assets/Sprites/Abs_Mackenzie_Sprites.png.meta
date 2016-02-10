@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 65b735eb576fe16489cbb656aec56ac7
-timeCreated: 1455075492
+timeCreated: 1455131243
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -68,7 +68,7 @@ TextureImporter:
         width: 133
         height: 137
       alignment: 9
-      pivot: {x: .358754665, y: .218541056}
+      pivot: {x: .44359538, y: .23226817}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: R_Hand
       rect:
@@ -108,7 +108,7 @@ TextureImporter:
         width: 79
         height: 145
       alignment: 9
-      pivot: {x: .224661529, y: .840936482}
+      pivot: {x: .296078056, y: .840936482}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: Torso
       rect:
@@ -138,17 +138,17 @@ TextureImporter:
         width: 122
         height: 324
       alignment: 9
-      pivot: {x: .443270326, y: .80821079}
+      pivot: {x: .520345211, y: .901081145}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: R_Shin
       rect:
         serializedVersion: 2
         x: 519
-        y: 206
+        y: 208
         width: 104
         height: 276
       alignment: 9
-      pivot: {x: .733347952, y: .876834929}
+      pivot: {x: .444020778, y: .781440854}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: R_Foot
       rect:
@@ -158,7 +158,7 @@ TextureImporter:
         width: 131
         height: 80
       alignment: 9
-      pivot: {x: .268433541, y: .92252624}
+      pivot: {x: .25407806, y: .710956097}
       border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
