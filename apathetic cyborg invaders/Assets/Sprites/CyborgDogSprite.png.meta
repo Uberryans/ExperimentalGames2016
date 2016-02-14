@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: b672c1e130931544c98261e106e343cc
+timeCreated: 1455483963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head
+    21300002: F_Leg_Upper
+    21300004: F_Leg_Lower
+    21300006: F_Wheel
+    21300008: B_Leg_lower
+    21300010: B_Wheel
+    21300012: B_Leg_Upper
+    21300014: Body
+    21300016: Tail
+    21300018: Neck
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 764
+        width: 431
+        height: 288
+      alignment: 9
+      pivot: {x: .196266711, y: .162534073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 711
+        width: 219
+        height: 348
+      alignment: 9
+      pivot: {x: .536227584, y: .688087523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 848
+        width: 190
+        height: 204
+      alignment: 9
+      pivot: {x: .259895414, y: .830578089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: F_Wheel
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 854
+        width: 198
+        height: 198
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B_Leg_lower
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 853
+        width: 206
+        height: 199
+      alignment: 9
+      pivot: {x: .30742994, y: .679409027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B_Wheel
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 879
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: B_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 139
+        width: 362
+        height: 490
+      alignment: 9
+      pivot: {x: .587667227, y: .617388964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 105
+        width: 850
+        height: 435
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tail
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 473
+        width: 588
+        height: 233
+      alignment: 9
+      pivot: {x: .972254932, y: .925637186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Neck
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 99
+        width: 220
+        height: 223
+      alignment: 9
+      pivot: {x: .238542587, y: .206481516}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 01c37ab665ecebd48aec2257e1645586
+timeCreated: 1455483842
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Windshield
+    21300002: Body
+    21300004: Chassis
+    21300006: BackLeg_upper
+    21300008: BackLeg_Lower
+    21300010: BackLeg_Foot
+    21300012: R_Leg_Lower
+    21300014: R_Leg_Upper
+    21300016: R_Leg_Foot
+    21300018: L_Leg_Foot
+    21300020: L_Leg_Lower
+    21300022: L_Leg_Upper
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Windshield
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 885
+        width: 368
+        height: 154
+      alignment: 9
+      pivot: {x: .494610071, y: .229526266}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 863
+        width: 474
+        height: 176
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Chassis
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 937
+        width: 244
+        height: 102
+      alignment: 9
+      pivot: {x: .491870821, y: .927806199}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackLeg_upper
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 551
+        width: 212
+        height: 239
+      alignment: 9
+      pivot: {x: .949087918, y: .0933467597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackLeg_Lower
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 573
+        width: 177
+        height: 139
+      alignment: 9
+      pivot: {x: .925829887, y: .885278046}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BackLeg_Foot
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 402
+        width: 146
+        height: 388
+      alignment: 9
+      pivot: {x: .94831872, y: .77093792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 458
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: .0933886692, y: .886776745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 386
+        width: 238
+        height: 304
+      alignment: 9
+      pivot: {x: .0416346975, y: .0889515132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: R_Leg_Foot
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 282
+        width: 168
+        height: 495
+      alignment: 9
+      pivot: {x: .0749707893, y: .81254673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_Leg_Foot
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 125
+        height: 431
+      alignment: 9
+      pivot: {x: .0715702549, y: .799131274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 103
+        width: 149
+        height: 174
+      alignment: 9
+      pivot: {x: .0740196705, y: .921772063}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: L_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 41
+        width: 178
+        height: 265
+      alignment: 9
+      pivot: {x: .0431331694, y: .0808510557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
