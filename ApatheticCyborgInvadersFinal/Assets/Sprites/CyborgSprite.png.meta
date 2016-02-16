@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 9bb9a2465f7e86949ba9f131c9b93565
+timeCreated: 1455412525
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: CyborgSprite_0
+    21300002: CyborgSprite_1
+    21300004: CyborgSprite_2
+    21300006: CyborgSprite_3
+    21300008: CyborgSprite_4
+    21300010: CyborgSprite_5
+    21300012: CyborgSprite_6
+    21300014: CyborgSprite_7
+    21300016: CyborgSprite_8
+    21300018: CyborgSprite_9
+    21300020: CyborgSprite_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: CyborgSprite_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 902
+        width: 192
+        height: 139
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 851
+        width: 133
+        height: 190
+      alignment: 9
+      pivot: {x: .261386484, y: .113744795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_2
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 655
+        width: 232
+        height: 379
+      alignment: 9
+      pivot: {x: .482900679, y: .08655864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_3
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 845
+        width: 140
+        height: 196
+      alignment: 9
+      pivot: {x: .400825709, y: .752993226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 466
+        width: 185
+        height: 239
+      alignment: 9
+      pivot: {x: .382063866, y: .79046607}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_5
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 439
+        width: 248
+        height: 128
+      alignment: 9
+      pivot: {x: .0841108784, y: .56198287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 66
+        width: 122
+        height: 282
+      alignment: 9
+      pivot: {x: .483742148, y: .781343043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 61
+        width: 151
+        height: 264
+      alignment: 9
+      pivot: {x: .644491255, y: .815551996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 78
+        width: 175
+        height: 247
+      alignment: 9
+      pivot: {x: .556670249, y: .789088547}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 29
+        width: 159
+        height: 75
+      alignment: 9
+      pivot: {x: .250506699, y: .896693826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: CyborgSprite_10
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 40
+        width: 159
+        height: 75
+      alignment: 9
+      pivot: {x: .23803173, y: .896693945}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
