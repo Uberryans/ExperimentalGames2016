@@ -21,7 +21,7 @@ public class GameController : MonoBehaviour {
 	    }
 
 	    if(secTimer == 120){
-	    	GameObject.Find("LevelTransitioner").GetComponent<LevelTransitions>().changeLevel();
+	    	//GameObject.Find("LevelTransitioner").GetComponent<LevelTransitions>().changeLevel();
 	    }
 	}
 

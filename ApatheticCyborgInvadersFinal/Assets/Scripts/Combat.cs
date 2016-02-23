@@ -4,25 +4,35 @@ using System.Collections;
 public class Combat : MonoBehaviour {
 
     public int health;
+    public Animator anim; //Will be implemented once we have animations
+    public bool isDead = false;
+    private string type;
 
-	// Use this for initialization
-	void Start () {
-	    if(this.name == "Cyborg Rig")
+    // Use this for initialization
+    void Start () {
+
+        anim = gameObject.GetComponent<Animator>(); //Will be implemented once we have animations
+
+        if (this.name == "Cyborg Rig")
         {
+            type = "Cyborg";
             health = 10;
         }
         if(this.name == "Dog_Rig")
         {
+            type = "Dog";
             health = 5;
             //this.gameObject.SetActive(false);
         }
         if (this.name == "Mech_Rig")
         {
+            type = "Mech";
             health = 15;
             //this.gameObject.SetActive(false);
         }
         if (this.name == "Walrus_Rig")
         {
+            type = "Walrus";
             health = 30;
             //this.gameObject.SetActive(false);
         }
@@ -49,12 +59,22 @@ public class Combat : MonoBehaviour {
             {
                 GameObject.Find("GameController").GetComponent<GameController>().addMoney(20);
             }
-            Destroy(this.gameObject);
+
+            isDead = true;
+            anim.SetBool("dead", isDead);
+
+            if (anim.GetCurrentAnimatorStateInfo(0).IsName(type+"_Death"))
+            {
+                isDead = false;
+                Destroy(this.gameObject);
+                anim.SetBool("dead", isDead);
+            }
         }
 	}
 
     public void reduceHealth(int minus)
     {
+
         health = health - minus;
     }
 }
