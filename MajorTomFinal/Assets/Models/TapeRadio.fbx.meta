@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 86d76a690ec420f47a3c7a3b7c815908
+timeCreated: 1457401152
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: BatteryLifeRim
+    100002: BatteryLight
+    100004: Body
+    100006: Button
+    100008: Button1
+    100010: Button2
+    100012: Button3
+    100014: Button4
+    100016: Button5
+    100018: Button6
+    100020: Button7
+    100022: Handle
+    100024: Knob
+    100026: Knob1
+    100028: KnobBase
+    100030: Mic
+    100032: Speaker
+    100034: SpeakerRim
+    100036: TapeGlass
+    100038: //RootNode
+    100040: Tuner
+    100042: TuningGlass
+    400000: BatteryLifeRim
+    400002: BatteryLight
+    400004: Body
+    400006: Button
+    400008: Button1
+    400010: Button2
+    400012: Button3
+    400014: Button4
+    400016: Button5
+    400018: Button6
+    400020: Button7
+    400022: Handle
+    400024: Knob
+    400026: Knob1
+    400028: KnobBase
+    400030: Mic
+    400032: Speaker
+    400034: SpeakerRim
+    400036: TapeGlass
+    400038: //RootNode
+    400040: Tuner
+    400042: TuningGlass
+    2300000: BatteryLifeRim
+    2300002: BatteryLight
+    2300004: Body
+    2300006: Button
+    2300008: Button1
+    2300010: Button2
+    2300012: Button3
+    2300014: Button4
+    2300016: Button5
+    2300018: Button6
+    2300020: Button7
+    2300022: Handle
+    2300024: Knob
+    2300026: Knob1
+    2300028: KnobBase
+    2300030: Mic
+    2300032: Speaker
+    2300034: SpeakerRim
+    2300036: TapeGlass
+    2300038: Tuner
+    2300040: TuningGlass
+    3300000: BatteryLifeRim
+    3300002: BatteryLight
+    3300004: Body
+    3300006: Button
+    3300008: Button1
+    3300010: Button2
+    3300012: Button3
+    3300014: Button4
+    3300016: Button5
+    3300018: Button6
+    3300020: Button7
+    3300022: Handle
+    3300024: Knob
+    3300026: Knob1
+    3300028: KnobBase
+    3300030: Mic
+    3300032: Speaker
+    3300034: SpeakerRim
+    3300036: TapeGlass
+    3300038: Tuner
+    3300040: TuningGlass
+    4300000: Body
+    4300002: Tuner
+    4300004: Button
+    4300006: Button1
+    4300008: Button2
+    4300010: Button3
+    4300012: Button4
+    4300014: Button5
+    4300016: Button6
+    4300018: Button7
+    4300020: Knob
+    4300022: KnobBase
+    4300024: Handle
+    4300026: Knob1
+    4300028: TuningGlass
+    4300030: TapeGlass
+    4300032: Speaker
+    4300034: SpeakerRim
+    4300036: BatteryLifeRim
+    4300038: BatteryLight
+    4300040: Mic
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
