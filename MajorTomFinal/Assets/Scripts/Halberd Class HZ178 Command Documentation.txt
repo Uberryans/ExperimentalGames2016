@@ -1,0 +1,42 @@
+Halberd Class HZ178 Command List	-
+
+	start:
+		Initiates the chosen system
+
+		Systems:
+			coolant1	-	Initiates the cooling process for the first engine. To be used when engine is overheating.
+			coolant2	-	Initiates the cooling process for the second engine. To be used when engine is overheating.
+			shields		-	Initiates the shields. Shields run off of capacitor energy; once it is used up, shield will shut off for 3 minutes, then start to recharge.
+			evasion		-	Inititates the evasive piloting sequence. Reduces damage to ship when moving through asteroid field and when under attack. Ends automatically after 2 mins.
+			stealth		-	Initiates the stealth field. Used to escape from enemy attacks. Takes 2 mins to initiate, and lasts for 3 mins.
+
+	end:
+		Ends the chosen system
+
+		Systems:
+			coolant1	-	Ends the cooling process for the first engine. The cooling system should be cancelled after 1 minute, or risk damaging engines.
+			coolant2	-	Ends the cooling process for the second engine. The cooling system should be cancelled after 1 minute, or risk damaging engines.
+			shields 	-	Turns shields off. When shields are not in use, they will recharge; thus, it is reccomended to turn them off when not in use.
+
+	repair:
+		Initiates repairs on the chosen part of the ship. All repairs take 2 mins. Prolonged damage to any part of the ship will lead to full system malfunctions.
+
+		Systems:
+			engine1		-	Initiates repairs for the first engine.
+			engine2		-	Initiates repairs for the second engine.
+			cargo		-	Initiates repairs for the cargo bay.
+			cockpit		-	Initiates repairs for the cockpit.
+			capacitor	-	Initiates repairs on the shield capacitor. A damage capacitor leaves shields at 0%.
+
+	status:
+		Displays the status of the chosen system.
+
+		Systems:
+			engine1		-	Displays the damage received by the first engine.
+			engine2		-	Displays the damage received by the second engine.
+			cargo		-	Displays the damage received by the cargo bay.
+			cockpit		-	Displays the damage received by the cockpit.
+			shields 	-	Displays the percentage the shield is running at.
+			capacitor	-	Displays the damage received by the capacitor.
+
+	
